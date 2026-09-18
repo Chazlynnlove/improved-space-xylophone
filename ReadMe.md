@@ -1,0 +1,1 @@
+This project is called StarPets, and it is a modern remix of the popular game from the early 2000s called NeoPets. It runs as a web app compatible with chromebook, so even students on a school chromebook can use it. The core mechanics are eat, poop, water, and sleep. I will do more research later to decide on core mechanics.
